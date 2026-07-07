@@ -1,24 +1,24 @@
 {
     "name": "Adam",
-    "title": "Web Enthusiast • Cyclist • Content Creator",
+    "title": "Tech Enthusiast • Cyclist • Content Creator",
 
-    "description": "Welcome to my personal dashboard. This website contains my personal websites, projects, and future experiments.",
+    "description": "Welcome to my personal dashboard. This website contains my personal information, projects, and links to my social media profiles. Feel free to explore and connect with me!",
 
     "websites": [
         {
             "name": "Kuromimaho",
             "url": "https://kuromimaho.web.id",
-            "description": "Main personal website."
+            "description": "Coming Soon!."
         },
         {
             "name": "Kuromaho",
             "url": "https://kuromaho.web.id",
-            "description": "Creative experiments and ideas."
+            "description": "My professional portfolio and personal website."
         },
         {
             "name": "Kuromiho",
             "url": "https://kuromiho.web.id",
-            "description": "Additional web projects."
+            "description": "My personal website to express myself"
         }
     ]
 }
